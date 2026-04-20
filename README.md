@@ -20,9 +20,7 @@ LSTM:
 
 The LSTM model performs much better because it captures word order and context, while Random Forest treats words independently.
 
-## How to run the code
 
-Install the required libraries: nltk, tensorflow, scikit-learn, matplotlib, seaborn. Then run the Python script. The code will download the IMDB dataset and NLTK resources.
 
 ## Implemented by
 
