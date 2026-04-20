@@ -21,7 +21,7 @@ LSTM:
 The LSTM model performs much better because it captures word order and context, while Random Forest treats words independently.
 
 
-
+##
 ## Implemented by
 
 Reema AlFayez – DS483 course project at Saudi Electronic University
